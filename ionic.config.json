@@ -1,0 +1,7 @@
+{
+  "name": "ionic-purol",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
